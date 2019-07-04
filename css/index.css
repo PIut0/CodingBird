@@ -22,7 +22,6 @@ body::-webkit-scrollbar {
     width: 100%;
     padding: auto;
     height: 100%;
-    border-bottom: 1px solid blue;
     text-align: center;
     box-sizing: border-box;
 }

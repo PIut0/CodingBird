@@ -106,7 +106,7 @@ var VirtualScroll = (function(document) {
         touchStartX = t.pageX;
         touchStartY = t.pageY;
 
-        notify(e);
+        `notify`(e);
     }
 
     var onKeyDown = function(e) {
