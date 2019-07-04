@@ -4,7 +4,6 @@ window.onload = function(){
     }, 100);
 }
 $(document).ready(function(){
-    alert('test');
     var page = 0;
     
     var s1_img = $(".page1 img");
