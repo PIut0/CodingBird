@@ -1,4 +1,5 @@
 window.onload = function(){
+    alert('test2');
     setTimeout(() => {
        scrollTo(0,0); 
     }, 100);
