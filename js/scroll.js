@@ -1,6 +1,6 @@
 window.onload = function(){
     setTimeout(() => {
-       scrollTo(0,0); 
+       scrollTo(0,0);
     }, 100);
 }
 $(document).ready(function(){
@@ -46,7 +46,7 @@ $(document).ready(function(){
                 s1_sub1.addClass("ani_subtext_1_1");
                 s1_sub2.addClass("ani_subtext_1_2");
                 break;
-            
+
             case 1 :
                 s2_img1.removeClass("hide");
                 s2_img2.removeClass("hide");
@@ -83,7 +83,7 @@ $(document).ready(function(){
                 s3l_main.addClass("ani_maintext_2");
                 s3l_sub1.addClass("ani_subtext_1_1");
                 s3l_sub2.addClass("ani_subtext_1_2");
-                
+
                 s3r_img.addClass("ani_mainimg_5");
                 s3r_line.addClass("ani_line_1");
                 s3r_main.addClass("ani_maintext_2");
@@ -107,7 +107,7 @@ $(document).ready(function(){
                 s1_sub1.addClass("hide");
                 s1_sub2.addClass("hide");
                 break;
-            
+
             case 1 :
                 s2_img1.removeClass("ani_mainimg_2");
                 s2_img2.removeClass("ani_mainimg_3");
@@ -138,7 +138,7 @@ $(document).ready(function(){
                 s3r_main.removeClass("ani_maintext_2");
                 s3r_sub1.removeClass("ani_subtext_1_1");
                 s3r_sub2.removeClass("ani_subtext_1_2");
-                
+
                 s3r_img.addClass("hide");
                 s3r_line.addClass("hide");
                 s3r_main.addClass("hide");
